@@ -1,0 +1,14 @@
+C:\Users\Kenan\Desktop\LeagueAutoAccept-main\Leauge Auto Accept\bin\Debug\net7.0\Leauge Auto Accept.exe
+C:\Users\Kenan\Desktop\LeagueAutoAccept-main\Leauge Auto Accept\bin\Debug\net7.0\Leauge Auto Accept.deps.json
+C:\Users\Kenan\Desktop\LeagueAutoAccept-main\Leauge Auto Accept\bin\Debug\net7.0\Leauge Auto Accept.runtimeconfig.json
+C:\Users\Kenan\Desktop\LeagueAutoAccept-main\Leauge Auto Accept\bin\Debug\net7.0\Leauge Auto Accept.dll
+C:\Users\Kenan\Desktop\LeagueAutoAccept-main\Leauge Auto Accept\bin\Debug\net7.0\Leauge Auto Accept.pdb
+C:\Users\Kenan\Desktop\LeagueAutoAccept-main\Leauge Auto Accept\obj\Debug\net7.0\Leauge Auto Accept.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenan\Desktop\LeagueAutoAccept-main\Leauge Auto Accept\obj\Debug\net7.0\Leauge Auto Accept.AssemblyInfoInputs.cache
+C:\Users\Kenan\Desktop\LeagueAutoAccept-main\Leauge Auto Accept\obj\Debug\net7.0\Leauge Auto Accept.AssemblyInfo.cs
+C:\Users\Kenan\Desktop\LeagueAutoAccept-main\Leauge Auto Accept\obj\Debug\net7.0\Leauge Auto Accept.csproj.CoreCompileInputs.cache
+C:\Users\Kenan\Desktop\LeagueAutoAccept-main\Leauge Auto Accept\obj\Debug\net7.0\Leauge Auto Accept.dll
+C:\Users\Kenan\Desktop\LeagueAutoAccept-main\Leauge Auto Accept\obj\Debug\net7.0\refint\Leauge Auto Accept.dll
+C:\Users\Kenan\Desktop\LeagueAutoAccept-main\Leauge Auto Accept\obj\Debug\net7.0\Leauge Auto Accept.pdb
+C:\Users\Kenan\Desktop\LeagueAutoAccept-main\Leauge Auto Accept\obj\Debug\net7.0\Leauge Auto Accept.genruntimeconfig.cache
+C:\Users\Kenan\Desktop\LeagueAutoAccept-main\Leauge Auto Accept\obj\Debug\net7.0\ref\Leauge Auto Accept.dll

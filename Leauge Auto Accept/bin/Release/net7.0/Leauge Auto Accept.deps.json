@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Leauge Auto Accept/3.4": {
+        "runtime": {
+          "Leauge Auto Accept.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Leauge Auto Accept/3.4": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
