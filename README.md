@@ -1,7 +1,7 @@
 # League of Legends için C# ile yazılmış otomatik sıra kabul eder ve şampiyon kitlemeye yarar.
 Mutfağa gitmen veya işemen mi gerekiyor? LeagueAutoAccept is a C# ile yazılmış konsol uygulaması LCU API kullanılarak kodlanmıştır. Maç kabul etmek ve daha fazlası!
 
-## Screenshot
+## Ekran görüntüsü
 ![LeagueAutoAccept Ekran görüntüsü](screenshot.png?raw=true)
 
 ## Özellikler
